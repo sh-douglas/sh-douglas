@@ -9,10 +9,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
